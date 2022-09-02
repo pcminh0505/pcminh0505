@@ -1,6 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Minh Pham (CM) <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="20px" /> </h1>
 <h3 align="center">A lifelong learner aims to become a T-shape inspiring leader in every part of life.</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="night-gif" height="200em"/>
+</p>
+
 - 🌱 I’m currently learning **Swift** and **SwiftUI**
 
 - 👨‍💻 All of my projects are available at [my portfolio website](https://pcminh0505.vercel.app/)
@@ -10,10 +14,12 @@
 
 <h3 align="left">🧬 Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/pcminh0505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pcminh0505" height="30" width="40" /></a>
-<a href="https://kaggle.com/pcminh0505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pcminh0505" height="30" width="40" /></a>
-<br/><br/>
-<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="night-gif"/>
+<a href="https://linkedin.com/in/pcminh0505" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<br/>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=217d5ndg2rakxarcnspwomj7q&redirect=true">
+  <img height="300em" src="https://spotify-github-profile.vercel.app/api/view?uid=217d5ndg2rakxarcnspwomj7q&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
+</a>
 </p>
 
 <h3 align="left">Programming Languages</h3>
