@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Minh Pham (CM)</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Minh Pham (CM) <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="20px" /> </h1>
 <h3 align="center">A lifelong learner aims to become a T-shape inspiring leader in every part of life.</h3>
 
 - 👨‍💻 All of my projects are available at [https://pcminh0505.vercel.app/](https://pcminh0505.vercel.app/)
