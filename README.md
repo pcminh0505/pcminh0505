@@ -1,7 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Minh Pham (CM) <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="20px" /> </h1>
 <h3 align="center">A lifelong learner aims to become a T-shape inspiring leader in every part of life.</h3>
 
-- 👨‍💻 All of my projects are available at [https://pcminh0505.vercel.app/](https://pcminh0505.vercel.app/)
+- 🌱 I’m currently learning **Swift** and **SwiftUI**
+
+- 👨‍💻 All of my projects are available at [my portfolio website](https://pcminh0505.vercel.app/)
 
 - 📫 How to reach me **pcminh0505@gmail.com**
 
@@ -36,7 +38,12 @@
 </p>
 
 <h3 align="left">📈 GitHub Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pcminh0505&theme=ayu-mirage&show_icons=true&locale=en" alt="pcminh0505" /></p>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pcminh0505&count_private=true&show_icons=true&include_all_commits=true&theme=ayu-mirage&show_icons=true&locale=en" alt="pcminh0505" />
+<br/><br/>
+<img src="https://github-profile-trophy.vercel.app/?username=pcminh0505&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&column=3" />
+</p>
 
 <h3 align="left">😎 Personal Stats</h3>
 
