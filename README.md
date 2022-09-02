@@ -15,10 +15,9 @@
 <h3 align="left">🧬 Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/pcminh0505" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 <br/>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=217d5ndg2rakxarcnspwomj7q&redirect=true">
-  <img height="300em" src="https://spotify-github-profile.vercel.app/api/view?uid=217d5ndg2rakxarcnspwomj7q&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
+  <img height="150em" src="https://spotify-github-profile.vercel.app/api/view?uid=217d5ndg2rakxarcnspwomj7q&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
 </a>
 </p>
 
