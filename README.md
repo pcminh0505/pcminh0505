@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **Swift** and **SwiftUI**
 
+- 🔭 I’m currently exploring and practicing in **First-principles Thinking** mindset
+
 - 👨‍💻 All of my projects are available at [my portfolio website](https://pcminh0505.vercel.app/)
 
-- 📫 How to reach me **pcminh0505@gmail.com**
+- 📫 Reach me at **pcminh0505@gmail.com**
 
 
 <h3 align="left">🧬 Connect with me</h3>
