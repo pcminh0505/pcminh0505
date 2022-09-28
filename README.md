@@ -57,7 +57,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-575%20Thousand%20lines%20of%20code-blue)
 
@@ -90,14 +90,14 @@ Sunday       55 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-C                        4 hrs 2 mins        ████████████████████████░   98.51% 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49%
+C                        37 mins             ██████████████████████░░░   91.08% 
+Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.92%
 
 🔥 Editors: 
-VS Code                  4 hrs 6 mins        █████████████████████████   100.0%
+VS Code                  41 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      4 hrs 6 mins        █████████████████████████   100.0%
+Mac                      41 mins             █████████████████████████   100.0%
 
 ```
 
@@ -114,6 +114,6 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2022 01:58:47 UTC
+ Last Updated on 28/09/2022 01:54:22 UTC
 <!--END_SECTION:waka-->
 
