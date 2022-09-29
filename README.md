@@ -90,14 +90,13 @@ Sunday       55 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-C                        37 mins             ██████████████████████░░░   91.08% 
-Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.92%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -114,6 +113,6 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2022 01:54:22 UTC
+ Last Updated on 29/09/2022 01:59:15 UTC
 <!--END_SECTION:waka-->
 
