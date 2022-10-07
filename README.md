@@ -55,7 +55,7 @@
 <h3 align="left">😎 Personal Stats</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -117,6 +117,6 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2022 01:42:16 UTC
+ Last Updated on 07/10/2022 01:55:41 UTC
 <!--END_SECTION:waka-->
 
