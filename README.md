@@ -57,7 +57,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-745%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -88,15 +88,15 @@ Sunday                   49 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               4 hrs 20 mins       █████████████████████████   99.87 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TypeScript               5 hrs 33 mins       █████████████████████████   99.90 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -112,6 +112,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/03/2023 01:20:59 UTC
+ Last Updated on 06/03/2023 01:12:10 UTC
 <!--END_SECTION:waka-->
 
