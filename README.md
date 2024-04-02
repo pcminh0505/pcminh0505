@@ -26,21 +26,28 @@
 <h3 align="left">Programming Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,go,py,java,swift,solidity,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=py,ts,go,rust,java,swift,dart,solidity,cpp" />
   </a>
 </p>
 
-<h3 align="left">Web Programming</h3>
+<h3 align="left">Mobile & Web Programming</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,graphql,spring,postgres,vercel" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,graphql,fastapi,nodejs,spring,postgres,mongodb" />
+  </a>
+</p>
+
+<h3 align="left">Cloud and DataOps</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=aws,firebase,gcp,supabase,vercel,docker,kafka,redis,cassandra" />
   </a>
 </p>
 
 <h3 align="left">Others</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,figma,aws,firebase,gcp,vscode,visualstudio,androidstudio,arduino" />
+    <img src="https://skillicons.dev/icons?i=apple,anaconda,vscode,figma,postman,notion,obsidian" />
   </a>
 </p>
 
