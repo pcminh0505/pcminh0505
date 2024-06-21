@@ -62,7 +62,7 @@
 <h3 align="left">😎 Personal Stats</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C240%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C240%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -95,13 +95,14 @@ Sunday                   132 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-HTML                     4 mins              █████████████████████████   100.00 % 
+TypeScript               15 mins             ████████████████████░░░░░   78.89 % 
+HTML                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  20 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+Mac                      20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,6 +118,6 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2024 01:02:43 UTC
+ Last Updated on 21/06/2024 01:03:42 UTC
 <!--END_SECTION:waka-->
 
