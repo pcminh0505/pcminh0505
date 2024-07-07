@@ -95,13 +95,15 @@ Sunday                   132 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TOML                     39 mins             ████████████████░░░░░░░░░   63.95 % 
+Rust                     19 mins             ████████░░░░░░░░░░░░░░░░░   30.83 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,6 +119,6 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/07/2024 01:03:14 UTC
+ Last Updated on 07/07/2024 01:10:18 UTC
 <!--END_SECTION:waka-->
 
