@@ -95,13 +95,13 @@ Sunday                   158 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-SQL                      41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,6 +117,6 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2024 01:18:46 UTC
+ Last Updated on 16/11/2024 01:17:01 UTC
 <!--END_SECTION:waka-->
 
