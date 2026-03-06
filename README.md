@@ -95,13 +95,13 @@ Sunday                   785 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,6 +117,6 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/03/2026 02:05:30 UTC
+ Last Updated on 06/03/2026 02:05:40 UTC
 <!--END_SECTION:waka-->
 
