@@ -62,8 +62,6 @@
 <h3 align="left">😎 Personal Stats</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C259%20hrs%2049%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.53%20million%20lines%20of%20code-blue?style=flat)
@@ -95,19 +93,13 @@ Sunday                   759 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TOML                     23 mins             ████████░░░░░░░░░░░░░░░░░   33.11 % 
-TypeScript               17 mins             ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-YAML                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              1 hr 4 mins         ███████████████████████░░   90.87 % 
-Cursor                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -123,6 +115,6 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2026 03:26:45 UTC
+ Last Updated on 07/06/2026 03:53:10 UTC
 <!--END_SECTION:waka-->
 
