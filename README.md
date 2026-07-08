@@ -95,13 +95,13 @@ Sunday                   761 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 38 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr 38 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,6 +117,6 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2026 03:04:07 UTC
+ Last Updated on 08/07/2026 02:39:05 UTC
 <!--END_SECTION:waka-->
 
