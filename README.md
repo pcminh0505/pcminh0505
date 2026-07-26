@@ -62,6 +62,8 @@
 <h3 align="left">😎 Personal Stats</h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C264%20hrs%2025%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.58%20million%20lines%20of%20code-blue?style=flat)
@@ -93,13 +95,14 @@ Sunday                   761 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     0 secs              █████████████████████░░░░   84.00 % 
+TOML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,6 +118,6 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:36:16 UTC
+ Last Updated on 26/07/2026 02:45:00 UTC
 <!--END_SECTION:waka-->
 
