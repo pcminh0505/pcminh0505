@@ -74,19 +74,19 @@
 
 ```text
 🌞 Morning                681 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-🌆 Daytime                2606 commits        ██████████░░░░░░░░░░░░░░░   40.61 % 
-🌃 Evening                2340 commits        █████████░░░░░░░░░░░░░░░░   36.47 % 
+🌆 Daytime                2607 commits        ██████████░░░░░░░░░░░░░░░   40.61 % 
+🌃 Evening                2341 commits        █████████░░░░░░░░░░░░░░░░   36.47 % 
 🌙 Night                  790 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   680 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Monday                   680 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
 Tuesday                  613 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Wednesday                872 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Thursday                 1035 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Friday                   1323 commits        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-Saturday                 1133 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Wednesday                874 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Thursday                 1035 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Friday                   1323 commits        █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+Saturday                 1133 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
 Sunday                   761 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
 ```
 
@@ -97,19 +97,38 @@ Sunday                   761 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               25 mins             █████████████████████░░░░   85.73 % 
+YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   24 mins             █████████████████████░░░░   83.45 % 
+Claude Code              4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      29 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 14 mins (49.64%)
+
+✍️ 0 lines written by AI, 102 lines written by hand (0.0% AI-written)
+
+🔤 587,552 Input Tokens, 3,718 Output Tokens
+
+💵 $2.78 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 11 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 61 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,6 +144,6 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 02:30:04 UTC
+ Last Updated on 06/08/2026 02:31:48 UTC
 <!--END_SECTION:waka-->
 
