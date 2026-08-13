@@ -97,41 +97,39 @@ Sunday                   761 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Markdown                 38 mins             █████████████░░░░░░░░░░░░   53.29 % 
-TypeScript               25 mins             █████████░░░░░░░░░░░░░░░░   34.39 % 
-Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Markdown                 42 mins             ██████████████████████░░░   89.90 % 
+Python                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Cursor                   1 hr 2 mins         █████████████████████░░░░   85.63 % 
-Claude Code              10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Cursor                   42 mins             ██████████████████████░░░   88.16 % 
+Claude Code              5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      1 hr 13 mins        █████████████████████████   100.00 % 
+Mac                      47 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (41.51%)
+⏱ AI Coding Time: 15 mins (33.07%)
 
-✍️ 0 lines written by AI, 130 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 28 lines written by hand (0.0% AI-written)
 
-🔤 757,136 Input Tokens, 6,603 Output Tokens
+🔤 169,584 Input Tokens, 2,885 Output Tokens
 
-💵 $3.68 Estimated AI Cost This Week
+💵 $0.89 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 17 AI Prompts
+🧠 3 AI Sessions, 6 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,235 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 3,388 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -148,6 +146,6 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 01:51:58 UTC
+ Last Updated on 13/08/2026 01:54:19 UTC
 <!--END_SECTION:waka-->
 
