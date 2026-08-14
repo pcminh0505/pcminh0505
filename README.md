@@ -97,40 +97,35 @@ Sunday                   761 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Markdown                 42 mins             ██████████████████████░░░   89.90 % 
-Python                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   42 mins             ██████████████████████░░░   88.16 % 
-Claude Code              5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Agent                    0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      47 mins             █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (33.07%)
+⏱ AI Coding Time: 0 secs (100.0%)
 
-✍️ 0 lines written by AI, 28 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 169,584 Input Tokens, 2,885 Output Tokens
+🔤 2,260 Input Tokens, 2,260 Output Tokens
 
-💵 $0.89 Estimated AI Cost This Week
+💵 $0.04 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 6 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,388 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 3,013 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -146,6 +141,6 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 01:54:19 UTC
+ Last Updated on 14/08/2026 01:52:15 UTC
 <!--END_SECTION:waka-->
 
