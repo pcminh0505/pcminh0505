@@ -97,34 +97,50 @@ Sunday                   761 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Agent                    9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 9 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 280 Input Tokens, 280 Output Tokens
+
+💵 $0.01 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 8 AI Prompts
+
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 142 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Solidity                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Jupyter Notebook         6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Solidity                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
 
 
- Last Updated on 27/08/2026 07:29:10 UTC
+ Last Updated on 28/08/2026 09:43:12 UTC
 <!--END_SECTION:waka-->
 
