@@ -97,53 +97,56 @@ Sunday                   761 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   17 mins             ██████████████████░░░░░░░   73.65 % 
-Other                    6 mins              ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+Python                   24 mins             ███████████████████░░░░░░   75.07 % 
+Other                    6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Julia                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-Agent                    15 mins             █████████████████░░░░░░░░   66.97 % 
-Cursor                   7 mins              ████████░░░░░░░░░░░░░░░░░   33.03 % 
+Cursor                   16 mins             █████████████░░░░░░░░░░░░   51.17 % 
+Agent                    15 mins             ████████████░░░░░░░░░░░░░   48.83 % 
 
 💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.00 % 
+Mac                      31 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (66.97%)
+⏱ AI Coding Time: 21 mins (68.28%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 17 lines written by hand (0.0% AI-written)
 
-🔤 3,465 Input Tokens, 3,465 Output Tokens
+🔤 3,963 Input Tokens, 3,963 Output Tokens
 
-💵 $0.06 Estimated AI Cost This Week
+💵 $0.07 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 14 AI Prompts
+🧠 5 AI Sessions, 20 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 991 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 794 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Jupyter Notebook         6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Solidity                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Jupyter Notebook         6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Solidity                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 
 
 
- Last Updated on 02/09/2026 03:03:44 UTC
+ Last Updated on 03/09/2026 03:06:16 UTC
 <!--END_SECTION:waka-->
 
