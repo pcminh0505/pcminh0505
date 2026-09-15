@@ -62,9 +62,9 @@
 <h3 align="left">😎 Personal Stats</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C248%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C249%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-69%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -97,43 +97,43 @@ Sunday                   761 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-C++                      5 hrs 39 mins       █████████████████░░░░░░░░   67.84 % 
-Markdown                 59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Makefile                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+C++                      5 hrs 23 mins       ██████████████████░░░░░░░   70.90 % 
+Markdown                 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Makefile                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 6 mins        ████████████░░░░░░░░░░░░░   49.29 % 
-Claude Code              3 hrs 34 mins       ███████████░░░░░░░░░░░░░░   42.81 % 
-Agent                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Cursor                   3 hrs 56 mins       █████████████░░░░░░░░░░░░   51.74 % 
+Claude Code              3 hrs               ██████████░░░░░░░░░░░░░░░   39.59 % 
+Agent                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
 
 💻 Operating System: 
-Mac                      8 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 3 mins (84.73%)
+⏱ AI Coding Time: 6 hrs 26 mins (84.81%)
 
-✍️ 2,946 lines written by AI, 14 lines written by hand (99.53% AI-written)
+✍️ 2,862 lines written by AI, 14 lines written by hand (99.51% AI-written)
 
-🔤 2,476,488 Input Tokens, 361,977 Output Tokens
+🔤 2,110,681 Input Tokens, 335,632 Output Tokens
 
-💵 $28.39 Estimated AI Cost This Week
+💵 $25.06 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 158 AI Prompts
+🧠 23 AI Sessions, 155 AI Prompts
 
-Opus                     3,290 lines         █████████████████████████   100.00 % 
+Opus                     3,081 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.53% of written lines came from AI
-📚 Verbose Prompter — average 4,360 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 31.42% of changed lines were hand-edited
+🤖 AI-Driven — 99.51% of written lines came from AI
+📚 Verbose Prompter — average 4,439 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 32.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -149,6 +149,6 @@ Solidity                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 03:32:21 UTC
+ Last Updated on 15/09/2026 03:34:05 UTC
 <!--END_SECTION:waka-->
 
