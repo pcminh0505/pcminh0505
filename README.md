@@ -97,40 +97,40 @@ Sunday                   763 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-C++                      40 mins             ██████████░░░░░░░░░░░░░░░   41.31 % 
-TOML                     28 mins             ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-Markdown                 25 mins             ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Markdown                 46 mins             ██████████████░░░░░░░░░░░   55.07 % 
+TOML                     29 mins             █████████░░░░░░░░░░░░░░░░   34.65 % 
+Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Makefile                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-Cursor                   50 mins             █████████████░░░░░░░░░░░░   50.98 % 
-Agent                    48 mins             ████████████░░░░░░░░░░░░░   49.02 % 
+Cursor                   50 mins             ███████████████░░░░░░░░░░   59.84 % 
+Agent                    33 mins             ██████████░░░░░░░░░░░░░░░   40.16 % 
 
 💻 Operating System: 
-Mac                      1 hr 39 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 mins (53.25%)
+⏱ AI Coding Time: 57 mins (69.13%)
 
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 42 lines written by hand (0.0% AI-written)
 
-🔤 85,653 Input Tokens, 85,653 Output Tokens
+🔤 50,951 Input Tokens, 50,951 Output Tokens
 
-💵 $2.62 Estimated AI Cost This Week
+💵 $2.00 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 51 AI Prompts
+🧠 11 AI Sessions, 38 AI Prompts
 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 6,718 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 5,364 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -147,6 +147,6 @@ Solidity                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 03:34:14 UTC
+ Last Updated on 21/09/2026 03:29:17 UTC
 <!--END_SECTION:waka-->
 
