@@ -62,32 +62,32 @@
 <h3 align="left">😎 Personal Stats</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C327%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C328%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-148%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.79%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.84%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                681 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-🌆 Daytime                2865 commits        ██████████░░░░░░░░░░░░░░░   41.35 % 
-🌃 Evening                2439 commits        █████████░░░░░░░░░░░░░░░░   35.20 % 
-🌙 Night                  944 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+🌞 Morning                681 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+🌆 Daytime                2877 commits        ██████████░░░░░░░░░░░░░░░   41.35 % 
+🌃 Evening                2448 commits        █████████░░░░░░░░░░░░░░░░   35.18 % 
+🌙 Night                  952 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   708 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Tuesday                  935 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Wednesday                908 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Thursday                 1094 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Friday                   1263 commits        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Saturday                 1186 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Sunday                   835 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Monday                   709 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Tuesday                  950 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Wednesday                913 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Thursday                 1098 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Friday                   1264 commits        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Saturday                 1188 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Sunday                   836 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
 ```
 
 
@@ -97,43 +97,43 @@ Sunday                   835 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Markdown                 12 hrs 51 mins      █████████░░░░░░░░░░░░░░░░   36.29 % 
-C++                      7 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-Python                   5 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Other                    3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Julia                    2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Markdown                 12 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   39.58 % 
+C++                      7 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+Other                    3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Python                   2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Julia                    2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 59 mins      ███████████████████░░░░░░   76.21 % 
-Cursor                   8 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Claude Code              24 hrs 10 mins      ███████████████████░░░░░░   77.68 % 
+Cursor                   6 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
 
 💻 Operating System: 
-Mac                      35 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 24 mins (88.7%)
+⏱ AI Coding Time: 27 hrs 38 mins (88.81%)
 
-✍️ 11,564 lines written by AI, 10,202 lines written by hand (53.13% AI-written)
+✍️ 9,263 lines written by AI, 10,122 lines written by hand (47.78% AI-written)
 
-🔤 18,757,903 Input Tokens, 3,203,631 Output Tokens
+🔤 17,795,893 Input Tokens, 2,941,890 Output Tokens
 
-💵 $373.52 Estimated AI Cost This Week
+💵 $338.29 Estimated AI Cost This Week
 
-🧠 86 AI Sessions, 300 AI Prompts
+🧠 71 AI Sessions, 265 AI Prompts
 
-Opus                     10,271 lines        ██████████████████████░░░   87.38 % 
-Fable                    1,478 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Sonnet                   6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Opus                     7,965 lines         █████████████████████░░░░   84.29 % 
+Fable                    1,478 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Sonnet                   6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.13% of written lines came from AI
-📚 Verbose Prompter — average 1,977 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 47.22% of changed lines were hand-edited
+⚖️ Balanced with AI — 47.78% of written lines came from AI
+📚 Verbose Prompter — average 1,854 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 52.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -149,6 +149,6 @@ Julia                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 04:10:01 UTC
+ Last Updated on 12/10/2026 04:28:57 UTC
 <!--END_SECTION:waka-->
 
