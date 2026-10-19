@@ -62,9 +62,9 @@
 <h3 align="left">😎 Personal Stats</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C343%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C344%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-163%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -74,19 +74,19 @@
 
 ```text
 🌞 Morning                681 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-🌆 Daytime                2618 commits        ██████████░░░░░░░░░░░░░░░   40.85 % 
-🌃 Evening                2288 commits        █████████░░░░░░░░░░░░░░░░   35.70 % 
+🌆 Daytime                2617 commits        ██████████░░░░░░░░░░░░░░░   40.85 % 
+🌃 Evening                2287 commits        █████████░░░░░░░░░░░░░░░░   35.70 % 
 🌙 Night                  822 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday                   696 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Tuesday                  634 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Wednesday                875 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Thursday                 1043 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Friday                   1248 commits        █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Saturday                 1135 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Tuesday                  634 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Wednesday                875 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Thursday                 1042 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Friday                   1248 commits        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Saturday                 1134 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
 Sunday                   778 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
 ```
 
@@ -97,58 +97,58 @@ Sunday                   778 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Markdown                 3 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-C++                      2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Julia                    2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-Python                   2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-HTML                     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Markdown                 2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+C++                      2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Julia                    2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Python                   2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+HTML                     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 23 mins       ████████████████░░░░░░░░░   64.67 % 
-Cursor                   5 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   35.33 % 
+Claude Code              8 hrs 53 mins       ████████████████░░░░░░░░░   64.17 % 
+Cursor                   4 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.83 % 
 
 💻 Operating System: 
-Mac                      14 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 30 mins (79.33%)
+⏱ AI Coding Time: 10 hrs 51 mins (78.34%)
 
-✍️ 8,467 lines written by AI, 224 lines written by hand (97.42% AI-written)
+✍️ 7,625 lines written by AI, 224 lines written by hand (97.15% AI-written)
 
-🔤 10,847,398 Input Tokens, 1,236,821 Output Tokens
+🔤 10,107,212 Input Tokens, 1,106,231 Output Tokens
 
-💵 $179.14 Estimated AI Cost This Week
+💵 $167.63 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 154 AI Prompts
+🧠 44 AI Sessions, 142 AI Prompts
 
-Opus                     8,324 lines         ████████████████████████░   97.17 % 
-Fable                    173 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Sonnet                   69 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Opus                     7,482 lines         ████████████████████████░   96.87 % 
+Fable                    173 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Sonnet                   69 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.42% of written lines came from AI
-📚 Verbose Prompter — average 4,407 characters per prompt
+🤖 AI-Driven — 97.15% of written lines came from AI
+📚 Verbose Prompter — average 4,658 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 5.13% of changed lines were hand-edited
+🚀 High AI Trust — 5.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-JavaScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Julia                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+JavaScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Julia                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 
 
 
- Last Updated on 18/10/2026 03:09:17 UTC
+ Last Updated on 19/10/2026 03:23:52 UTC
 <!--END_SECTION:waka-->
 
