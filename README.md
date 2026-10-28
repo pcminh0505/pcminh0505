@@ -62,7 +62,7 @@
 <h3 align="left">😎 Personal Stats</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C358%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C358%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%2023%20mins-blue?style=flat)
 
@@ -97,41 +97,41 @@ Sunday                   200 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Julia                    4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.37 % 
-Python                   3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
-Markdown                 2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-JSON                     1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Julia                    4 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   38.87 % 
+Python                   2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+JSON                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 
 🔥 Editors: 
-Cursor                   11 hrs 31 mins      ████████████████████░░░░░   79.95 % 
-Claude Code              2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Cursor                   10 hrs 51 mins      ██████████████████████░░░   87.91 % 
+Claude Code              1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
 
 💻 Operating System: 
-Mac                      14 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 13 mins (29.28%)
+⏱ AI Coding Time: 2 hrs 45 mins (22.38%)
 
-✍️ 1,310 lines written by AI, 773 lines written by hand (62.89% AI-written)
+✍️ 162 lines written by AI, 824 lines written by hand (16.43% AI-written)
 
-🔤 2,011,769 Input Tokens, 368,370 Output Tokens
+🔤 1,721,799 Input Tokens, 169,626 Output Tokens
 
-💵 $38.01 Estimated AI Cost This Week
+💵 $26.76 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 33 AI Prompts
+🧠 3 AI Sessions, 19 AI Prompts
 
-Opus                     1,266 lines         ████████████████████████░   96.64 % 
-Grok                     44 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Opus                     118 lines           ██████████████████░░░░░░░   72.84 % 
+Grok                     44 lines            ███████░░░░░░░░░░░░░░░░░░   27.16 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 62.89% of written lines came from AI
-📚 Verbose Prompter — average 1,678 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 49.6% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 16.43% of written lines came from AI
+📝 Concise Prompter — average 486 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 89.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -147,6 +147,6 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 03:49:15 UTC
+ Last Updated on 28/10/2026 04:06:51 UTC
 <!--END_SECTION:waka-->
 
