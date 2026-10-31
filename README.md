@@ -62,9 +62,9 @@
 <h3 align="left">😎 Personal Stats</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C359%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C360%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -97,26 +97,26 @@ Sunday                   200 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   35 mins             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Rust                     30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-JSON                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-TOML                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-YAML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Python                   35 mins             ████████░░░░░░░░░░░░░░░░░   30.39 % 
+Rust                     30 mins             ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+TOML                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+YAML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
 
 🔥 Editors: 
-Cursor                   1 hr 36 mins        ██████████████████░░░░░░░   72.84 % 
-Claude Code              35 mins             ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+Cursor                   1 hr 20 mins        █████████████████░░░░░░░░   69.05 % 
+Claude Code              35 mins             ████████░░░░░░░░░░░░░░░░░   30.95 % 
 
 💻 Operating System: 
-Mac                      2 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 mins (38.26%)
+⏱ AI Coding Time: 50 mins (43.59%)
 
-✍️ 196 lines written by AI, 910 lines written by hand (17.72% AI-written)
+✍️ 196 lines written by AI, 909 lines written by hand (17.74% AI-written)
 
 🔤 695,030 Input Tokens, 57,041 Output Tokens
 
@@ -127,10 +127,10 @@ Mac                      2 hrs 12 mins       ███████████�
 Opus                     197 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 17.72% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 17.74% of written lines came from AI
 📚 Verbose Prompter — average 2,365 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 83.09% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 83.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -146,6 +146,6 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 04:29:59 UTC
+ Last Updated on 31/10/2026 04:10:47 UTC
 <!--END_SECTION:waka-->
 
